@@ -14,6 +14,8 @@
 ## 1. Introduction
 This projects is a result of an assignment in a Udacity course for a front-end developers. Its objective was to run a Arcade Game using functions that are object-oriented class functions or class prototype functions. Another important specification that a project should to meet is a use of the "this" keyword.
 
+(https://preview.ibb.co/nf3Rko/Arcade_Game.png)
+
 ## 2. Arcade Game Clone: how does it work?
 
 ### 2.1. Basic functionalities
