@@ -16,10 +16,10 @@ This projects is a result of an assignment in a Udacity course for a front-end d
 
 ## 2. Arcade Game Clone: how does it work?
 
-# 2.1. Basic functionalities
+### 2.1. Basic functionalities
 In this game a user has a Player and Enemies (Bugs). The goal of the player is to reach the water, without colliding into any one of the enemies. The player can move left, right, up and down. The enemies move in varying speeds on the paved block portion of the scene. Once a the player collides with an enemy, the game is reset and the player moves back to the start square. Once the player reaches the water the game is won and he/she gains 50 scores.
 
-# 2.2. Additional functionalities
+### 2.2. Additional functionalities
 In this game, a player has 4 lives that are represented as hearts in the left top corner. When a player collides with an enemy, he/she looses a life and comes back to the start point.
 The game finishes with "Game over" message and the number of scores that have been gain.
 Each time when a player arrives to the water without a collision, he/she wins 50 points. The update of won scores in visible in a right top corner.
